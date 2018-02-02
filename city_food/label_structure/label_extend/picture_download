@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python3 picture_down_load_yibu_duoxiancheng_c.py 0
